@@ -22,6 +22,7 @@ import androidx.appcompat.app.AppCompatActivity
 /**
  * Creates an Activity that hosts the Game fragment in the app
  */
+//Comment for Starter Commit
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
